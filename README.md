@@ -1,0 +1,1 @@
+This is a tutorial I created as part of my talk for talented students (14-19 years old) participating in the educational project Physics Camp Pilsen, 2024. The tutorial covers selected basics of Python programming and offers concrete physics problems to which Python can be applied. The tutorial is written in Czech.
